@@ -18,7 +18,7 @@ of standard English ones.
 Run `make HomophonicCipher` to build or `make clean` to remove compiled files.
 
 ## Usage
-```
+```shell
 ./HomophonicCipher <ciphertext_file> [<digram_statistics_file>] [<final_key_output_file>]
 ```
 The first argument is required and should be a text file containing the
@@ -30,7 +30,7 @@ text file to which the final resulting key should be written when done. The
 result will always be printed to screen as well.
 
 **Example usage:**
-```
+```shell
 # Compare against English digram frequencies:
 ./HomophonicCipher texts/zodiac_340_ciphertext.txt
 
