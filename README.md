@@ -21,11 +21,13 @@ Run `make HomophonicCipher` to build or `make clean` to remove compiled files.
 ```shell
 ./HomophonicCipher <ciphertext_file> [<digram_statistics_file>] [<final_key_output_file>]
 ```
-The first argument is required and should be a text file containing the
-ciphertext. The second argument is optional and is a text file from which to
+* The first argument is required and should be a text file containing the
+ciphertext.
+* The second argument is optional and is a text file from which to
 calculate the digram frequencies that should be compared against when scoring
 potential solutions. If no such file is passed, the comparison will be against
-English digram frequencies. The third argument is optional and is the name of a
+English digram frequencies.
+* The third argument is optional and is the name of a
 text file to which the final resulting key should be written when done. The
 result will always be printed to screen as well.
 
