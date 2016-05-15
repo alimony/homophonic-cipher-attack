@@ -15,7 +15,7 @@ all confirmed letters which can be used as digram frequency comparison instead
 of standard English ones.
 
 ## Building
-Run `make HomophonicCipher` to build or `make clean` to remove compiled files.
+Run `make` to build or `make clean` to remove compiled files.
 
 ## Usage
 ```shell
