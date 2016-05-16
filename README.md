@@ -2,7 +2,7 @@
 
 This is an implementation of the paper [“Efficient Cryptanalysis of Homophonic
 Substitution Ciphers”](http://www.cs.sjsu.edu/~stamp/RUA/homophonic.pdf) by
-Amrapali Dhavare, Richard M. Low and Mark Stamp. The code was orignally written
+Amrapali Dhavare, Richard M. Low and Mark Stamp. The code was originally written
 by Amrapali Dhavare in 2011 and later improved by Markus Amalthea Magnuson in
 2016.
 
@@ -11,8 +11,8 @@ world’s probably most infamous homophonic substitution cipher, the [unsolved 3
 which is discussed in the latter part of the original paper. Zodiac sent many
 letters, some of which [have been confirmed authentic and others not](https://en.wikisource.org/wiki/Zodiac_Killer_letters).
 The file `texts/known_zodiac_letters_combined.txt` contains a concatenation of
-all confirmed letters which can be used as digram frequency comparison instead
-of standard English ones.
+all confirmed letters and can be used as digram frequency comparison instead
+of the standard English.
 
 ## Building
 Run `make` to build or `make clean` to remove compiled files.
