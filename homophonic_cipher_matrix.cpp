@@ -13,7 +13,7 @@
 #include <cstdlib>
 #include <iostream>
 #include <random>
-#include <string>
+#include <cstring>
 
 extern int freq_distribution_final[130][27];
 
