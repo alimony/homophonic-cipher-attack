@@ -14,7 +14,7 @@
 
 #include <cstdlib>
 #include <iostream>
-#include <string>
+#include <cstring>
 
 #include "e_hardcoded_values.h"
 

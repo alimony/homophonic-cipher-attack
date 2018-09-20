@@ -13,7 +13,7 @@
 #include <cstdlib>
 #include <fstream>
 #include <iostream>
-#include <string>
+#include <cstring>
 
 int get_distinct_symbols(char *buffer, int distinct[256]) {
     int i;
