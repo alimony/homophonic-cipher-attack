@@ -19,7 +19,7 @@
 #define BUFFER_SIZE 100
 #define E_LETTER_COUNT 26
 #define TOTAL_ASCII_COUNT 256
-#define MAX_RANDOM_TRIALS 500
+#define MAX_RANDOM_TRIALS 40
 
 char * get_file_to_buffer(char *filename);
 
