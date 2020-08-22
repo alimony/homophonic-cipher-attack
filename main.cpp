@@ -5,7 +5,7 @@
 // CS 298, Department of Computer Science, San José State University
 // Copyright © 2011 Amrapali Dhavare. All rights reserved.
 //
-// Modified 2016 by Markus Amalthea Magnuson <markus.magnuson@gmail.com>
+// Modified 2016 by Markus Amalthea Magnuson <markus@polyscopic.works>
 //
 
 #include <cstdlib>
